@@ -1,13 +1,13 @@
 {
-	"name": "multiline",
-	"version": "2.0.0",
+	"name": "multiline-pus",
+	"version": "1.0.0",
 	"description": "Multiline strings in JavaScript",
 	"license": "MIT",
 	"repository": "sindresorhus/multiline",
 	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
+		"name": "Piyush Agade",
+		"email": "piyushagade@gmail.com",
+		"url": "https://piyushagade.xyz"
 	},
 	"engines": {
 		"node": ">=0.10.0"
